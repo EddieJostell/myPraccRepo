@@ -39,7 +39,7 @@ setInterval(function() {
 | Eduardo | IS | AMAZING |
 |-------- |--- | --------|
 | Eduardo | IS | AMAZING |
-| ------- | ---| --------|
 | Eduardo | IS | AMAZING |
 
+---
 
