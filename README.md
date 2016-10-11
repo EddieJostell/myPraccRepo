@@ -8,4 +8,4 @@
 
 [Cloud9] (http://www.cloud9.gg)
 
-![Cloud9] (cloud9logo.jpg)
+![Cloud9] (/https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg)
